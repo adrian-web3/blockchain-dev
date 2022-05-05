@@ -22,11 +22,11 @@ Heavily inspired from https://github.com/OffcierCia/DeFi-Developer-Road-Map#basi
 
 ### Step 1 : Basics
 
-- HTTP/HTTPS, RPC protocol
-- GIT - Version Control (GitHub, Bitbucket, GitLab)
-- JavaScript
-- Python
-- Blockchain
+✔️- HTTP/HTTPS, RPC protocol
+✔️- GIT - Version Control (GitHub, Bitbucket, GitLab)
+❌- JavaScript
+❌- Python
+❌- Blockchain
 - Bitcoin WP
 - Distributed ledger (DLT)
 
