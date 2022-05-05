@@ -53,6 +53,7 @@ Heavily inspired from https://github.com/OffcierCia/DeFi-Developer-Road-Map#basi
 ##### Front-end ❌
 
 - React
+ ➡️ https://scrimba.com/learn/learnreact
 
 ##### Build Tools ❌
 
