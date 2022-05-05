@@ -4,7 +4,7 @@
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
 
-   
+
 
 
 
@@ -13,7 +13,7 @@
 <br />
 
 I live in France and Belgium. 3 years of experience as a web2 front-end dev.
-  
+
 </details>
 
 
@@ -32,11 +32,10 @@ Heavily inspired from https://github.com/OffcierCia/DeFi-Developer-Road-Map#basi
 
 
 ##### Smart Contracts
+- Basics of Smart Contract
 - Elliptic Curve Cryptography
 - Compiling, testing and Deploying Smart Contract
 - Life Cycle of Smart Contract
-- Ethereum High Level languages
-- Basics of Smart Contract
 
 
 ##### Ethereum
@@ -48,8 +47,75 @@ Heavily inspired from https://github.com/OffcierCia/DeFi-Developer-Road-Map#basi
 - Ethereum Virtual Machine (EVM)
 - ERC20 ERC721 ERC1155
 
+### Step 2 : General
+
+##### Front-end
+
+- React
+
+##### Build Tools
+
+- Package Managers -> npm
+- Ide's -> Remix IDE
+
+##### Backend
+
+- Ethereum EVM
+- Deployed Contract
+
+##### Frameworks
+
+- Rare
+- Truffle
+- Hardhat
+- Dapp.Tools
+- Brownie
+
+##### Infura
+
+- Mainnet
+- Ropsten
+- Kovan
+
+##### Distributed Storage
+
+- IPFS
+- SWARM
+
+### Step 3 : Keep on learning
+
+##### Security
+
+- TX Analysis
+- The Scope of Audit
+- Checklist Testing
+- Known Attacks Repeating
+
+### Step 4 : DeFi in use
+
+##### On chain
+
+- DEX
+- Side Chains
+- MEV
+- BSC / Polygon / Solana
+
+##### L1/L2 Solutions
+
+- Plasma
+- State Channels
+- Rollups -> ZK-Rollups / Optimistic Rollups
+
+##### DeFi Implementations
+
+- Lending
+- NFTs
+- Stable Coin
+- Farming
+
+### Step 5 : Projects
+
+
 
 
 (👍 ͡❛ ͜ʖ ͡❛)👍
-
-
