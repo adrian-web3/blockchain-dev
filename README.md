@@ -20,25 +20,26 @@ I live in France and Belgium. 3 years of experience as a web2 front-end dev.
 ## Roadmap
 Heavily inspired from https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics
 
-### Step 1 : Basics
+### Step 1 : Basics 🔥
 
 - HTTP/HTTPS, RPC protocol✔️
-- GIT - Version Control (GitHub, Bitbucket, GitLab)✔️
+  ➡️ https://www.ibm.com/docs/en/aix/7.1?topic=concepts-remote-procedure-call
+- GIT - Version Control (GitHub, Bitbucket, GitLab) 🔥
 - JavaScript ❌
 - Python ❌
-- Blockchain ❌
-- Bitcoin WP
-- Distributed ledger (DLT)
+- Blockchain basics ✔️
+- Bitcoin WP ❌
+- Distributed ledger (DLT) ❌
 
 
-##### Smart Contracts
+##### Smart Contracts ❌
 - Basics of Smart Contract
 - Elliptic Curve Cryptography
 - Compiling, testing and Deploying Smart Contract
 - Life Cycle of Smart Contract
 
 
-##### Ethereum
+##### Ethereum ❌
 -  Wallets, Addresses, Gas, private & public keys
 - Interacting with Deployed Smart contract
 - Ethereum clients/Nodes e.g Geth
@@ -47,23 +48,23 @@ Heavily inspired from https://github.com/OffcierCia/DeFi-Developer-Road-Map#basi
 - Ethereum Virtual Machine (EVM)
 - ERC20 ERC721 ERC1155
 
-### Step 2 : General
+### Step 2 : General ❌
 
-##### Front-end
+##### Front-end ❌
 
 - React
 
-##### Build Tools
+##### Build Tools ❌
 
 - Package Managers -> npm
 - Ide's -> Remix IDE
 
-##### Backend
+##### Backend ❌
 
 - Ethereum EVM
 - Deployed Contract
 
-##### Frameworks
+##### Frameworks ❌
 
 - Rare
 - Truffle
@@ -71,49 +72,49 @@ Heavily inspired from https://github.com/OffcierCia/DeFi-Developer-Road-Map#basi
 - Dapp.Tools
 - Brownie
 
-##### Infura
+##### Infura ❌
 
 - Mainnet
 - Ropsten
 - Kovan
 
-##### Distributed Storage
+##### Distributed Storage ❌
 
 - IPFS
 - SWARM
 
-### Step 3 : Keep on learning
+### Step 3 : Keep on learning ❌
 
-##### Security
+##### Security ❌
 
 - TX Analysis
 - The Scope of Audit
 - Checklist Testing
 - Known Attacks Repeating
 
-### Step 4 : DeFi in use
+### Step 4 : DeFi in use ❌
 
-##### On chain
+##### On chain ❌
 
 - DEX
 - Side Chains
 - MEV
 - BSC / Polygon / Solana
 
-##### L1/L2 Solutions
+##### L1/L2 Solutions ❌
 
 - Plasma
 - State Channels
 - Rollups -> ZK-Rollups / Optimistic Rollups
 
-##### DeFi Implementations
+##### DeFi Implementations ❌
 
 - Lending
 - NFTs
 - Stable Coin
 - Farming
 
-### Step 5 : Projects
+### Step 5 : Projects ❌
 
 
 
