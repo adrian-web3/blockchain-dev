@@ -10,7 +10,7 @@ const main = async () => {
 };
 
 const runMain = async () => {
-  try {
+  try { 
     await main();
     process.exit(0);
   } catch (error) {
