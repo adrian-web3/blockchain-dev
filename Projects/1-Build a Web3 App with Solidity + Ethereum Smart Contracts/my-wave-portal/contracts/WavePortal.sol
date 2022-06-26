@@ -17,7 +17,7 @@ contract WavePortal {
 
     Wave[] waves;
 
-    constructor() payable {
+    constructor() payable { 
         console.log("We have been constructed!");
     }
 
