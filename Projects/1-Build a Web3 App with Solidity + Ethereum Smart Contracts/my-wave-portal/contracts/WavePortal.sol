@@ -11,13 +11,13 @@ contract WavePortal {
 
     struct Wave {
         address waver;
-        string message;
+        string message; 
         uint256 timestamp;
     }
 
     Wave[] waves;
 
-    constructor() payable { 
+    constructor() payable {
         console.log("We have been constructed!");
     }
 
