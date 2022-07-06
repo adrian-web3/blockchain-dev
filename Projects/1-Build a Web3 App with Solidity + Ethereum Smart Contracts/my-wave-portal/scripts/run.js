@@ -10,7 +10,7 @@ const main = async () => {
     waveContract.address
   );
   console.log(
-    'Contract balance:',
+    'Contract balance:', 
     hre.ethers.utils.formatEther(contractBalance)
   );
 
