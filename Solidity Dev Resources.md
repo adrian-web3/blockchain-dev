@@ -14,7 +14,7 @@ Public list of interesting resources / ideas / articles ...
   - https://solidity-by-example.org/
   List of solidity code samples
 
-  - https://ethernaut.openzeppelin.com/
+  - https://ethernaut.openzeppelin.com/ 
   The Ethernaut is a Web3/Solidity based wargame, played in the EVM. Each level is a smart contract that needs to be 'hacked'.
 
   - Solidity Tutorial: All About Imports
