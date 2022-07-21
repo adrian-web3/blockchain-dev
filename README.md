@@ -6,7 +6,7 @@
 
 
 
-
+ 
 
 <details>
 <summary>About me</summary>
@@ -118,7 +118,7 @@ I live in France and Belgium. 3 years of experience as a web2 front-end dev.
 ### Step 5 : Projects ❌
 
 
-This roadmap has been inspired by these amazing people : 
+This roadmap has been inspired by these amazing people :
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
 - https://github.com/dcbuild3r/blockchain-development-guide
 - https://twitter.com/FarzaTV/status/1494063089439817729
