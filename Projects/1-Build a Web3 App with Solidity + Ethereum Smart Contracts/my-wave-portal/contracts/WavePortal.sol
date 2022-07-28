@@ -15,10 +15,10 @@ contract WavePortal {
         uint256 timestamp;
     }
 
-    Wave[] waves; 
+    Wave[] waves;
 
     constructor() payable {
-        console.log("We have been constructed!");
+        console.log("We have been constructed!"); 
     }
 
     function wave(string memory _message) public {
